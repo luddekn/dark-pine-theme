@@ -1,7 +1,7 @@
 {
    "name": "dark-pine-theme",
-   "displayName": "Dark Pine",
-   "description": "Dark theme inspired by the default VScode them and the Rosé Pine Moon theme.",
+   "displayName": "Dark Pine Theme",
+   "description": "A minimal dark theme with Rosé Pine syntax colors!",
    "version": "3.7.0",
    "publisher": "LudvikKristoffersen",
    "repository": {
@@ -15,6 +15,7 @@
       "soft",
       "focus"
    ],
+   "icon": "./images/icon.png",
    "categories": [
       "Themes"
    ],
