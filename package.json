@@ -18,12 +18,7 @@
       "night mode"
    ],
    "categories": [
-      "theme",
-      "themes",
-      "dark theme",
-      "dark",
-      "night mode",
-      "night"
+      "themes"
    ],
    "engines": {
       "vscode": "^1.0.0"
