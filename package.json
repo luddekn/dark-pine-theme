@@ -1,0 +1,19 @@
+{
+   "name": "Dark Pine",
+   "displayName": "Dark Pine",
+   "description": "A custom Rosé Pine Moon theme.",
+   "version": "1.0.0",
+   "publisher": "your-name",
+   "engines": {
+     "vscode": "^1.0.0"
+   },
+   "contributes": {
+     "themes": [
+       {
+         "label": "Ludvik Theme",
+         "uiTheme": "dark",
+         "path": "./dark-pine-color-theme.json"
+       }
+     ]
+   }
+ }
