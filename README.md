@@ -9,6 +9,7 @@
   </a>
 </p>
 ## Usage
+
 1. Open up Visual Studio Code
 2. Go to extensions and search for `Dark Pine Theme`
 3. Click install
