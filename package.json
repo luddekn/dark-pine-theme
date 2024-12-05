@@ -17,5 +17,14 @@
    ],
    "engines": {
      "vscode": "^1.0.0"
+   },
+   "contributes": {
+      "themes": [
+         {
+            "label": "Dark Pine",
+            "uiTheme": "vs-dark",
+            "path": "./theme/dark-pine-color-theme.json"
+         }
+      ]
    }
  }
