@@ -13,7 +13,9 @@
       "dark theme",
       "dark",
       "pine",
-      "ludvik"
+      "night",
+      "dark mode",
+      "night mode"
    ],
    "engines": {
       "vscode": "^1.0.0"
