@@ -325,7 +325,7 @@
     "editor.wordHighlightBackground": "#575757b8",
     "editor.lineHighlightBackground": "#ffffff0A",
     "editor.lineHighlightBorder": "#282828",
-    "editorLineNumber.activeForeground": "#c6c6c6",
+    "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#4e94ce",
     "editorIndentGuide.background": "#404040",
     "editorIndentGuide.activeBackground": "#707070",
