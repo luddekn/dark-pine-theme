@@ -1,2 +1,4 @@
-### Dark Pine Theme
-A theme inspired by the default Visual Studio Code theme and the Rosé Pine Moon theme!
+<p align="center">
+    <img src="https://github.com/luddekn/dark-pine-theme/images/icon.png" width="80" />
+    <h2 align="center">Dark Pine for VSCode</h2>
+</p>
