@@ -13,4 +13,4 @@
 1. Open up Visual Studio Code
 2. Go to extensions and search for `Dark Pine Theme`
 3. Click install
-4. Click on `Set theme` or go to `Preferences: Color theme` to use the theme
+4. Click on `Set Color Theme` or select it in `Preferences: Color theme`
