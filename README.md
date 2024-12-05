@@ -8,3 +8,8 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-INSTALL%20THEME!-white?style=for-the-badge" alt="Install Theme"/>
   </a>
 </p>
+## Usage
+1. Open up Visual Studio Code
+2. Go to extensions and search for `Dark Pine Theme`
+3. Click install
+4. Click on `Set theme` or go to `Preferences: Color theme` to use the theme
