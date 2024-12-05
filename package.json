@@ -1,19 +1,21 @@
 {
-   "name": "Dark Pine",
+   "name": "dark-pine-theme",
    "displayName": "Dark Pine",
-   "description": "A custom Rosé Pine Moon theme.",
+   "description": "Dark theme inspired by the default VScode them and the Rosé Pine Moon theme.",
    "version": "1.0.0",
-   "publisher": "your-name",
+   "publisher": "LudvikKristoffersen",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/luddekn/dark-pine-theme"
+   },
+   "keywords": [
+      "theme",
+      "dark theme",
+      "dark",
+      "pine",
+      "ludvik"
+   ],
    "engines": {
      "vscode": "^1.0.0"
-   },
-   "contributes": {
-     "themes": [
-       {
-         "label": "Ludvik Theme",
-         "uiTheme": "dark",
-         "path": "./dark-pine-color-theme.json"
-       }
-     ]
    }
  }
