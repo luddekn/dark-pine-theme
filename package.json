@@ -15,7 +15,7 @@
       "soft",
       "focus"
    ],
-   "icon": "./images/icon.png",
+   "icon": "images/icon.png",
    "categories": [
       "Themes"
    ],
@@ -27,7 +27,7 @@
          {
             "label": "Dark Pine",
             "uiTheme": "vs-dark",
-            "path": "./theme/dark-pine-color-theme.json"
+            "path": "theme/dark-pine-color-theme.json"
          }
       ]
    }
