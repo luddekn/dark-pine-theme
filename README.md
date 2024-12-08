@@ -20,4 +20,4 @@
 > Font used: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 **Dark Pine**
-![Dark Pine Theme](https://github.com/luddekn/dark-pine-theme/blob/main/screenshots/theme-screenshot.png?raw=true)
+![Dark Pine Theme](https://github.com/luddekn/dark-pine-theme/blob/main/screenshots/screenshot-dark-pine.png?raw=true)
